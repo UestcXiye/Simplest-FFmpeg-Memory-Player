@@ -1,0 +1,18 @@
+﻿生成启动时间为 2024/3/5 16:54:24。
+     1>项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Simplest FFmpeg Memory Player\Simplest FFmpeg Memory Player.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Simplest FFmpeg Memory Player.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Simplest FFmpeg Memory Player.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Simplest FFmpeg Memory Player.cpp"
+         Simplest FFmpeg Memory Player.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Debug\Simplest FFmpeg Memory Player.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib avcodec.lib avformat.lib avutil.lib avdevice.lib avfilter.lib postproc.lib swresample.lib swscale.lib SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Debug\Simplest FFmpeg Memory Player.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Debug\Simplest FFmpeg Memory Player.lib" /MACHINE:X86 "Debug\Simplest FFmpeg Memory Player.obj"
+         Debug\stdafx.obj
+     1>MSVCRTD.lib(initializers.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+     1>SDLmain.lib(SDL_win32_main.obj) : warning LNK4217: 本地定义的符号 ___iob_func 在函数 _ShowError 中导入
+         Simplest FFmpeg Memory Player.vcxproj -> C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Debug\Simplest FFmpeg Memory Player.exe
+     1>已完成生成项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\Simplest FFmpeg Memory Player\Simplest FFmpeg Memory Player\Simplest FFmpeg Memory Player.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:07.77
